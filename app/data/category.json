@@ -1,0 +1,14 @@
+[
+	{
+		"id": 1,
+		"category": "phone"
+	},
+	{
+		"id": 2,
+		"category": "tabel"
+	},
+	{
+		"id": 3,
+		"category": "tv"
+	}
+]
